@@ -48,6 +48,6 @@ Agora vamos calcular:
 ![GOOGLE COLAB](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
 
 ## :notebook_with_decorative_cover:	 Notebook do meu projeto no Google Colab
-<a target="_blank" href="https://colab.research.google.com/drive/15eG3-VMR0C5ha13MRfytce_Jg8-dhDrm?usp=sharing">
+<a target="_blank" href="https://colab.research.google.com/drive/1P6DtQRnATGyszwpsfte9WOG0znzKoqOT?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
